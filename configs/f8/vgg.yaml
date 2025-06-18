@@ -1,0 +1,32 @@
+
+model:
+  target: models.vgg.VGG5
+  params:
+    in_channels: 4
+    input_size: 32
+    num_classes: 14
+    # attn: SE # for squeeze and excitation
+
+data:
+  target: main.DataModuleFromConfig
+  params:
+    batch_size: 128
+    num_workers: 8
+    train:
+      target: data.base.BaseTrain
+      params:
+        pkl_path: pickles/chexpert8_train.pkl
+        num_classes: 14
+    validation:
+      target: data.base.BaseTest
+      params:
+        pkl_path: pickles/chexpert8_test.pkl
+        num_classes: 14
+
+params:
+  num_epochs: 200
+  learning_rate: 2e-4
+  weight_decay: 5e-4
+  optimizer: adam
+  amsgrad: True
+  
