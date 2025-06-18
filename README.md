@@ -8,28 +8,28 @@ MICCAI 2025 [Arxiv]
 
 This repository contains the code for Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference. 
 
-
-
 ![](./asset/fig.jpg)
-
-
-
-
 
 
 
 # Datasets
 
-We utilized the multi-modal brain tumor segmentation challenge 2021(BraTS 2021) and Information eXtraction From Images (IXI) dataset. Accessible links are provided below. 
+- CheXpert dataset: https://stanfordmlgroup.github.io/competitions/chexpert/
 
-BraTS 2021: https://www.synapse.org/#!Synapse:syn25829067/wiki/610863 
+- NIH dataset: https://www.kaggle.com/datasets/nih-chest-xrays/data
 
-IXI: https://brain-development.org/ixi-dataset/ 
+
+
+# HE-inference Test
+
+To use a simulation environment for inference latency testing, fork the code from HEAR.(https://github.com/K-miran/HEAR).
 
 
 
 ## Compression Models 
 
+Google drive to get a pre-trained image compression model: 
 
+https://drive.google.com/drive/folders/1IdkwJwg-Q2HqcQD7GzgJZITWo9jSH7CH?usp=drive_link
 
 
