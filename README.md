@@ -30,6 +30,6 @@ To use a simulation environment for inference latency testing, fork the code fro
 
 Google drive to get a pre-trained image compression model: 
 
-https://drive.google.com/drive/folders/1IdkwJwg-Q2HqcQD7GzgJZITWo9jSH7CH?usp=drive_link
+https://drive.google.com/drive/folders/1IdkwJwg-Q2HqcQD7GzgJZITWo9jSH7CH?usp=sharing
 
 
