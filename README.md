@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1IdkwJwg-Q2HqcQD7GzgJZITWo9jSH7CH?usp=sha
 ```bibtex
 @misc{kim2025privacy,
       title={Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference}, 
-      author={Jonghun Kim and Gyeongdeok Jo and Shinyoung Ra and Hyunjin Park},
+      author={Jonghun Kim and Gyeongdeok Jo and Sinyoung Ra and Hyunjin Park},
       year={2025},
       eprint={2506.15258},
       archivePrefix={arXiv},
