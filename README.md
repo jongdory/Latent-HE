@@ -1,6 +1,6 @@
 # Paper
 
-Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference [Jonghun Kim], [Gyeongdeok Jo], [Shinyoung Ra], [Hyunjin Park] <br>
+Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference [Jonghun Kim], [Gyeongdeok Jo], [Sinyoung Ra], [Hyunjin Park] <br>
 
 [[Arxiv](https://arxiv.org/abs/2506.15258)]
 
