@@ -2,7 +2,7 @@
 
 Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference [Jonghun Kim], [Gyeongdeok Jo], [Sinyoung Ra], [Hyunjin Park] <br>
 
-[[Arxiv](https://arxiv.org/abs/2506.15258)] [[MICCAI'25](https://papers.miccai.org/miccai-2025/paper/0621_paper.pdf)]
+[[MICCAI'25](https://papers.miccai.org/miccai-2025/paper/0621_paper.pdf)] [[Arxiv](https://arxiv.org/abs/2506.15258)] 
 
 # Overview
 
