@@ -36,7 +36,7 @@ https://drive.google.com/drive/folders/1IdkwJwg-Q2HqcQD7GzgJZITWo9jSH7CH?usp=sha
 
 # Citation
 
-```bibtex
+```tex
 @InProceedings{KimJon_Privacy_MICCAI2025,
         author = { Kim, Jonghun and Jo, Gyeongdeok and Ra, Sinyoung and Park, Hyunjin},
         title = { { Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference } },
